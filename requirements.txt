@@ -1,5 +1,2 @@
-pandas
+pandas]
 schedule
-requests
-sqlalchemy
-pyarrow

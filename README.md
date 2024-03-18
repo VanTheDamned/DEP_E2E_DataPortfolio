@@ -1,7 +1,5 @@
 ## My First E2E Data Portfolio
 
-This repository is created as part of the First End to End Data portfolio series of Josh Dev of Data Engineering Pilipinas
-
 ## Instructions
 
 1. Clone this repository 
